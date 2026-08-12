@@ -12,4 +12,6 @@ Proficiency
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,linux)
 
 
+Stats
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bernardovh77&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=bernardovh77&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox_light)

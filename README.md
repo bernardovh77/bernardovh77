@@ -7,9 +7,9 @@ Contacts and accounts
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531982334962)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/820742980977426463)
 
-Proficient languages
+Proficiency
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,linux)
 
 
 

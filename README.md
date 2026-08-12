@@ -6,4 +6,4 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/820742980977426463)
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,git,wsl)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,git,wsl)

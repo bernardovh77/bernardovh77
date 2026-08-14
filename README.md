@@ -18,50 +18,50 @@ Stats
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2021%20mins-blue?style=flat-square)
 
-**🐱 Meus dados no GitHub** 
+**🐱 My GitHub Data** 
 
-> 📦 19 Bytes Usado no armazenamento do GitHub 
+> 📦 19 Bytes Used in GitHub's Storage 
  > 
-> 🏆 20 Contribuições no ano de 2026
+> 🏆 20 Contributions in the Year 2026
  > 
-> 🚫 Não aberto para contratação
+> 🚫 Not Opted to Hire
  > 
-> 📜 1 Repositório Público 
+> 📜 1 Public Repository 
  > 
-> 🔑 0 Repositório Privado 
+> 🔑 0 Private Repository 
  > 
-**Eu sou diurno 🐤** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Manhã                  12 commits          █████████████████░░░░░░░░   66.67 % 
-🌆 Tarde                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-🌃 Noite                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Madrugada              5 commits           ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+🌞 Morning                12 commits          ████████████████░░░░░░░░░   63.16 % 
+🌆 Daytime                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  6 commits           ████████░░░░░░░░░░░░░░░░░   31.58 % 
 ```
-📅 **Sou mais produtivo em Quarta-Feira** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Segunda-Feira            0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Terça-Feira              0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Quarta-Feira             13 commits          ██████████████████░░░░░░░   72.22 % 
-Quinta-Feira             1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Sexta-Feira              4 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Sábado                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Domingo                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                13 commits          █████████████████░░░░░░░░   68.42 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Friday                   5 commits           ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
-📊 **Esta semana eu gastei meu tempo em** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Linguagens de programação: 
+💬 Programming Languages: 
 C                        2 hrs 58 mins       ██████████████████████░░░   88.57 % 
 Java                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 
-🔥 Editores: 
+🔥 Editors: 
 Neovim                   3 hrs 21 mins       █████████████████████████   100.00 % 
 
-💻 Sistema operacional: 
+💻 Operating System: 
 WSL                      3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 

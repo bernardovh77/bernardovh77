@@ -28,7 +28,7 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
           SYMBOL_VERSION: "1"
-          BADGE_STYLE: "flat-square"
+          BADGE_STYLE: "social"
 
           # --- What sections to show ---
           SHOW_LINES_OF_CODE: "False"

@@ -10,13 +10,13 @@ Proficiency
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,linux)
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2021%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2021%20mins-blue?style=social)
 
 **🐱 My GitHub Data** 
 
-> 📦 19 Bytes Used in GitHub's Storage 
+> 📦 39 Bytes Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2026
+> 🏆 20 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,19 +27,19 @@ Proficiency
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          ███████████████░░░░░░░░░░   60.00 % 
-🌆 Daytime                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+🌞 Morning                12 commits          ██████████████░░░░░░░░░░░   54.55 % 
+🌆 Daytime                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  7 commits           █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌙 Night                  9 commits           ██████████░░░░░░░░░░░░░░░   40.91 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                13 commits          ████████████████░░░░░░░░░   65.00 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Friday                   6 commits           ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Wednesday                13 commits          ███████████████░░░░░░░░░░   59.09 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Friday                   8 commits           █████████░░░░░░░░░░░░░░░░   36.36 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```

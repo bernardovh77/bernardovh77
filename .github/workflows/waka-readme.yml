@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '0 3 * * *'   # 03:00 UTC = midnight BRT
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -12,5 +12,37 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          # Required — your credentials
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # --- Section / commit behavior ---
+          SECTION_NAME: "waka"
+          COMMIT_BY_ME: "False"
+          COMMIT_MESSAGE: "Updated with Dev Metrics"
+          COMMIT_USERNAME: "readme-bot"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # --- Language / formatting ---
+          LOCALE: "pt"
+          SHOW_UPDATED_DATE: "False"
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+          SYMBOL_VERSION: "1"
+          BADGE_STYLE: "flat-square"
+
+          # --- What sections to show ---
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "False"
+
+       

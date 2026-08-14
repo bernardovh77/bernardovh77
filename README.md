@@ -9,12 +9,6 @@ Proficiency
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,linux)
 
-
-Stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bernardovh77&rank_icon=github&hide_title=true&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=bernardovh77&rank_icon=github&hide_title=true&include_all_commits=true&theme=gruvbox_light)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bernardovh77&hide_title=true&langs_count=4&theme=solarized-light)](https://github-stats-extended.vercel.app/api/top-langs?username=bernardovh77&hide_title=true&langs_count=4&theme=solarized-light)
-
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2021%20mins-blue?style=flat-square)
 

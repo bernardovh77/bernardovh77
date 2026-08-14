@@ -24,7 +24,7 @@ jobs:
           COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
 
           # --- Language / formatting ---
-          LOCALE: "pt"
+          LOCALE: "en"
           SHOW_UPDATED_DATE: "False"
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
           SYMBOL_VERSION: "1"

@@ -16,59 +16,52 @@ Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bernardovh77&hide_title=true&langs_count=4&theme=solarized-light)](https://github-stats-extended.vercel.app/api/top-langs?username=bernardovh77&hide_title=true&langs_count=4&theme=solarized-light)
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2021%20mins-blue?style=flat-square)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue?style=flat)
+**🐱 Meus dados no GitHub** 
 
-**🐱 My GitHub Data** 
-
-> 📦 19 Bytes Used in GitHub's Storage 
+> 📦 19 Bytes Usado no armazenamento do GitHub 
  > 
-> 🏆 19 Contributions in the Year 2026
+> 🏆 20 Contribuições no ano de 2026
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Não aberto para contratação
  > 
-> 📜 1 Public Repository 
+> 📜 1 Repositório Público 
  > 
-> 🔑 0 Private Repository 
+> 🔑 0 Repositório Privado 
  > 
-**I'm an Early 🐤** 
+**Eu sou diurno 🐤** 
 
 ```text
-🌞 Morning                12 commits          ██████████████████░░░░░░░   70.59 % 
-🌆 Daytime                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  4 commits           ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌞 Manhã                  12 commits          █████████████████░░░░░░░░   66.67 % 
+🌆 Tarde                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+🌃 Noite                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Madrugada              5 commits           ███████░░░░░░░░░░░░░░░░░░   27.78 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **Sou mais produtivo em Quarta-Feira** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                13 commits          ███████████████████░░░░░░   76.47 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Friday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Segunda-Feira            0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Terça-Feira              0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Quarta-Feira             13 commits          ██████████████████░░░░░░░   72.22 % 
+Quinta-Feira             1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Sexta-Feira              4 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Sábado                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Domingo                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-🕑︎ Time Zone: America/Denver
-
-💬 Programming Languages: 
+💬 Linguagens de programação: 
 C                        2 hrs 58 mins       ██████████████████████░░░   88.57 % 
 Java                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 
-🔥 Editors: 
+🔥 Editores: 
 Neovim                   3 hrs 21 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-Unknown Project          3 hrs 21 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
+💻 Sistema operacional: 
 WSL                      3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
@@ -78,18 +71,5 @@ WSL                      3 hrs 21 mins       ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in C++** 
 
-```text
-C++                      1 repo              █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/bernardovh77/bernardovh77/main/assets/bar_graph.png)
-
-
- Last Updated on 14/08/2026 10:55:42 UTC
 <!--END_SECTION:waka-->

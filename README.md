@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Bernardo Vieira de Souza Halabi and im a Computer Science student from Belo Horizonte - Brazil! I am currently completing my first year of university studying at PUC Minas.
+
 Contacts and accounts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-vieira-de-souza-halabi)

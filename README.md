@@ -10,11 +10,11 @@ Proficiency
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,linux)
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2036%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2055%20mins-blue?style=social)
 
 **🐱 My GitHub Data** 
 
-> 📦 56 Bytes Used in GitHub's Storage 
+> 📦 57 Bytes Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -49,14 +49,14 @@ Sunday                   2 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        2 hrs 9 mins        ███████████████░░░░░░░░░░   61.42 % 
-Java                     1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   38.58 % 
+C                        2 hrs 20 mins       ███████████████░░░░░░░░░░   60.76 % 
+Java                     1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   39.24 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 31 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      3 hrs 31 mins       █████████████████████████   100.00 % 
+WSL                      3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 

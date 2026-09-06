@@ -16,7 +16,7 @@ Proficiency
 
 **🐱 My GitHub Data** 
 
-> 📦 67 Bytes Used in GitHub's Storage 
+> 📦 56 Bytes Used in GitHub's Storage 
  > 
 > 🏆 31 Contributions in the Year 2026
  > 

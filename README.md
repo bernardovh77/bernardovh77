@@ -12,7 +12,7 @@ Proficiency
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,linux)
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%202%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%208%20mins-blue?style=social)
 
 **🐱 My GitHub Data** 
 
@@ -51,13 +51,13 @@ Sunday                   2 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      6 mins              █████████████████████████   100.00 % 
 ```
 
 

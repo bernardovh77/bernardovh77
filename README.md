@@ -51,14 +51,13 @@ Sunday                   3 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 mins              ████████████████░░░░░░░░░   65.10 % 
-C                        1 min               █████████░░░░░░░░░░░░░░░░   34.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

@@ -16,13 +16,13 @@ Proficiency
 
 **🐱 My GitHub Data** 
 
-> 📦 17.3 kB Used in GitHub's Storage 
+> 📦 25.2 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2026
+> 🏆 45 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 

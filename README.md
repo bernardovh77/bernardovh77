@@ -16,7 +16,7 @@ Proficiency
 
 **🐱 My GitHub Data** 
 
-> 📦 22.3 kB Used in GitHub's Storage 
+> 📦 24.2 kB Used in GitHub's Storage 
  > 
 > 🏆 46 Contributions in the Year 2026
  > 
@@ -51,14 +51,13 @@ Sunday                   12 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 3 mins         ██████████████████████░░░   89.56 % 
-Java                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

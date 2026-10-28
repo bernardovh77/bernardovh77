@@ -12,7 +12,7 @@ Proficiency
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,linux)
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2020%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2015%20mins-blue?style=social)
 
 **🐱 My GitHub Data** 
 
@@ -29,21 +29,21 @@ Proficiency
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                124 commits         █████████████████████░░░░   83.22 % 
-🌆 Daytime                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-🌃 Evening                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-🌙 Night                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+🌞 Morning                113 commits         ████████████████████░░░░░   81.88 % 
+🌆 Daytime                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+🌃 Evening                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+🌙 Night                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Wednesday                95 commits          ████████████████░░░░░░░░░   63.76 % 
-Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Friday                   27 commits          █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Wednesday                87 commits          ████████████████░░░░░░░░░   63.04 % 
+Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Friday                   26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 ```
 
 
@@ -51,13 +51,13 @@ Sunday                   12 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     54 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      54 mins             █████████████████████████   100.00 % 
 ```
 
 

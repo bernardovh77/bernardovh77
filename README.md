@@ -9,7 +9,14 @@ Contacts and accounts
 
 Proficiency
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,linux)
+![My Skills](https://skillicons.dev/icons?i=c,java,git,linux,html,css,javascript)
+
+My Portfolio
+
+<a href="https://halabi.vercel.app" target="_blank">
+  <img src="https://img.icons8.com/color/96/domain.png"
+       width="60" height="60" alt="Website" />
+</a>
 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2013%20mins-blue?style=social)

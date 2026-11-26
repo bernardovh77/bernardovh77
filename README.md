@@ -23,9 +23,9 @@ My Portfolio
 
 **🐱 My GitHub Data** 
 
-> 📦 36.2 kB Used in GitHub's Storage 
+> 📦 36.9 kB Used in GitHub's Storage 
  > 
-> 🏆 144 Contributions in the Year 2026
+> 🏆 152 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,21 +36,21 @@ My Portfolio
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                275 commits         ██████████████████░░░░░░░   73.53 % 
-🌆 Daytime                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-🌃 Evening                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-🌙 Night                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+🌞 Morning                277 commits         ██████████████████░░░░░░░   72.51 % 
+🌆 Daytime                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+🌃 Evening                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+🌙 Night                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Tuesday                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Wednesday                171 commits         ███████████░░░░░░░░░░░░░░   45.72 % 
-Thursday                 7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Monday                   72 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Tuesday                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Wednesday                176 commits         ████████████░░░░░░░░░░░░░   46.07 % 
+Thursday                 7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 
@@ -58,13 +58,13 @@ Sunday                   34 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

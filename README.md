@@ -19,7 +19,7 @@ My Portfolio
 </a>
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%203%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2056%20mins-blue?style=social)
 
 **🐱 My GitHub Data** 
 
@@ -58,13 +58,13 @@ Sunday                   34 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     53 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      53 mins             █████████████████████████   100.00 % 
 ```
 
 
